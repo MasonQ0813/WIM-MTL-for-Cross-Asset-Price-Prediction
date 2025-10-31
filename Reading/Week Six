@@ -1,0 +1,26 @@
+# Week 6 Reading Check List
+
+## Chapter 10 — Introduction to Artificial Neural Networks
+- From Biological to Artificial Neurons  
+- The Perceptron  
+- The Multilayer Perceptron and Backpropagation  
+- Regression MLPs  
+- Fine-Tuning Neural Network Hyperparameters  
+  - Number of Hidden Layers  
+  - Number of Neurons per Hidden Layer  
+  - Learning Rate, Batch Size, and Other Hyperparameters  
+
+---
+
+## Chapter 11 — Training Deep Neural Networks
+- Challenges in Training Deep Networks  
+- The Vanishing/Exploding Gradients Problems  
+  - Glorot and He Initialization  
+  - Nonsaturating Activation Functions  
+    - ReLU
+  - Batch Normalization  
+- Faster Optimizers  
+  - Momentum Optimization   
+  - RMSProp, Adam
+- Avoid Overfitting
+  - Dropout
