@@ -1,0 +1,5 @@
+<b>Reading:</b>
+1. Multi-Task Learning | Explained in 5 Minutes: https://www.youtube.com/watch?v=ckQuvrksP4k&t=88s
+2. Caruana, R. (1997). Multitask learning. Machine Learning, 28(1), 41–75. https://doi.org/10.1023/A:1007379606734
+<b>Coding:</b>
+1. Fit FNN model using the same processed data as the last coding assignment. Make a basic hyperparameter tuning; print RMSE, MSE, MAE, and runtime; and visualization. 
